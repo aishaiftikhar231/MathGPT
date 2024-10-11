@@ -132,3 +132,13 @@ watchdog==5.0.3
 wcwidth==0.2.13
 wheel==0.44.0
 yarl==1.13.1
+streamlit
+numpy
+matplotlib
+sympy
+latex2mathml
+Pillow
+PyPDF2
+python-docx
+g4f
+streamlit-drawable-canvas
